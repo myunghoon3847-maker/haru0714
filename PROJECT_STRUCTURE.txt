@@ -1,0 +1,14 @@
+harunihon_lite_android_clean_v1_0_1/
+├── app/
+│   ├── build.gradle
+│   └── src/main/
+│       ├── AndroidManifest.xml
+│       ├── assets/index.html
+│       ├── java/com/harunihon/lite/MainActivity.java
+│       └── res/...
+├── build.gradle
+├── settings.gradle
+├── .github/workflows/android-build.yml
+├── .gitignore
+├── play-store/
+└── README_FIRST_KR.txt
